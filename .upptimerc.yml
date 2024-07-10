@@ -29,7 +29,7 @@ sites:
   #   ipv6: true
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
+  responseTime: "*/10 * * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
