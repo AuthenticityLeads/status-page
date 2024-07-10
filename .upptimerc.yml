@@ -11,11 +11,11 @@ sites:
   - name: Backoffice
     url: https://app.authenticityleads.com/
   - name: API01
-    url: https://api01-prod.authenticityleads.com
+    url: https://api.authenticityleads.com
     icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
-  - name: API02
-    url: https://api02-prod.authenticityleads.com
-    icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
+  # - name: API02
+  #   url: https://api02-prod.authenticityleads.com
+  #   icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
   - name: Lambda01
     url: https://lambda01-prod.authenticityleads.com
     icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
