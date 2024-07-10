@@ -47,8 +47,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: MainSite
+      href: https://authenticityleads.com
   theme: dark
 runner: "[self-hosted]"
 # Upptime also supports notifications, assigning issues, and more
