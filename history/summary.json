@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticityleads.com.ico",
     "slug": "api-01",
     "status": "up",
-    "uptime": "1.70%",
-    "uptimeDay": "1.70%",
-    "uptimeWeek": "1.70%",
-    "uptimeMonth": "1.70%",
-    "uptimeYear": "1.70%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 730,
     "timeWeek": 730,
     "timeMonth": 730,
     "timeYear": 730,
-    "dailyMinutesDown": {
-      "2024-07-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lambda01",
