@@ -8,21 +8,35 @@ sites:
 
   - name: Main site
     url: https://authenticityleads.com
-  - name: App
+  - name: Backoffice
     url: https://app.authenticityleads.com/
-  - name: API
-    url: https://api.authenticityleads.com
+  - name: API01
+    url: https://api01-prod.authenticityleads.com
     icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
-  - name: Backend
-    url: https://backendprod.authenticityleads.com/
+  - name: API02
+    url: https://api02-prod.authenticityleads.com
     icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
-  - name: Lambda
+  - name: Lambda01
     url: https://lambda01-prod.authenticityleads.com
     icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
     expectedStatusCodes:
       - 200
       - 301
       - 400
+  - name: Lambda02
+    url: https://lambda02-prod.authenticityleads.com
+    icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 400
+  - name: Lambda03
+    url: https://lambda03-prod.authenticityleads.com
+    icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 400      
   - name: Snippet
     url: https://code.authenticityleads.com/js/modules/Api.mjs
     icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
