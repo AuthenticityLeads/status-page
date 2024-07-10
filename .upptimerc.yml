@@ -12,16 +12,20 @@ sites:
     url: https://app.authenticityleads.com/
   - name: API
     url: https://api.authenticityleads.com
+    icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
   - name: Backend
     url: https://backendprod.authenticityleads.com/
+    icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
   - name: Lambda
     url: https://lambda01-prod.authenticityleads.com
+    icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
     expectedStatusCodes:
       - 200
       - 301
       - 400
   - name: Snippet
     url: https://code.authenticityleads.com/js/modules/Api.mjs
+    icon: https://icons.duckduckgo.com/ip3/authenticityleads.com.ico
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
