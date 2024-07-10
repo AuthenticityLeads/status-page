@@ -40,7 +40,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.authenticityleads.com
-  baseUrl: /status-page/
+  baseUrl: /
   logoUrl: https://agency.authenticityleads.com/wp-content/uploads/2024/04/logo-cloud-white.png
   introTitle: ""
   introMessage: ""
