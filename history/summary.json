@@ -76,19 +76,19 @@
     "url": "https://lambda-prod.authenticityleads.com",
     "icon": "https://icons.duckduckgo.com/ip3/authenticityleads.com.ico",
     "slug": "lambda",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 421,
     "timeDay": 430,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 2
     }
   },
   {
