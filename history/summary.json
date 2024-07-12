@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 497,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "time": 493,
+    "timeDay": 496,
+    "timeWeek": 493,
+    "timeMonth": 493,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 219,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 213,
+    "timeDay": 218,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
+    "time": 642,
     "timeDay": 606,
-    "timeWeek": 643,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "timeWeek": 642,
+    "timeMonth": 642,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 612,
-    "timeWeek": 646,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "time": 645,
+    "timeDay": 614,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   },
   {
@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticityleads.com.ico",
     "slug": "lambda",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 430,
+    "timeDay": 429,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
-    "dailyMinutesDown": {
-      "2024-07-12": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snippet",
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 360,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "time": 359,
+    "timeDay": 363,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   }
 ]
