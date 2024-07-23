@@ -36,7 +36,7 @@ assignees: # Users to assign downtime issues (optional)
   #   ipv6: true
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "*/10 * * * *"
+  responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
