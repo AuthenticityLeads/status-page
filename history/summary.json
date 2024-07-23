@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 489,
+    "timeDay": 488,
     "timeWeek": 489,
     "timeMonth": 490,
     "timeYear": 490,
@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticityleads.com.ico",
     "slug": "lambda",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 414,
     "timeDay": 389,
     "timeWeek": 401,
     "timeMonth": 414,
     "timeYear": 414,
-    "dailyMinutesDown": {
-      "2024-07-23": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snippet",
@@ -103,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 349,
+    "timeDay": 348,
     "timeWeek": 367,
     "timeMonth": 372,
     "timeYear": 372,
