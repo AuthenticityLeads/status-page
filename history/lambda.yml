@@ -1,7 +1,7 @@
 url: https://lambda-prod.authenticityleads.com
-status: down
-code: 503
-responseTime: 484
-lastUpdated: 2024-07-23T15:49:03.519Z
+status: up
+code: 404
+responseTime: 379
+lastUpdated: 2024-07-23T15:51:55.465Z
 startTime: 2024-07-10T13:46:14.062Z
 generator: Upptime <https://github.com/upptime/upptime>
