@@ -40,19 +40,19 @@
     "url": "https://api.authenticityleads.com",
     "icon": "https://icons.duckduckgo.com/ip3/authenticityleads.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 518,
-    "timeWeek": 583,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 608,
+    "timeDay": 613,
+    "timeWeek": 598,
     "timeMonth": 601,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-08-15": 0
+      "2024-08-15": 17
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://backendprod.authenticityleads.com",
     "icon": "https://icons.duckduckgo.com/ip3/authenticityleads.com.ico",
     "slug": "backend-clone-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 607,
-    "timeDay": 548,
-    "timeWeek": 572,
+    "timeDay": 663,
+    "timeWeek": 598,
     "timeMonth": 601,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2024-08-15": 0
+      "2024-08-15": 17
     }
   },
   {
