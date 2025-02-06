@@ -98,17 +98,19 @@
     "url": "https://code.authenticityleads.com/js/modules/Api.mjs",
     "icon": "https://icons.duckduckgo.com/ip3/authenticityleads.com.ico",
     "slug": "snippet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 187,
-    "timeWeek": 224,
-    "timeMonth": 283,
+    "timeDay": 160,
+    "timeWeek": 213,
+    "timeMonth": 277,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 1
+    }
   }
 ]
