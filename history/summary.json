@@ -6,18 +6,16 @@
     "slug": "main-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 2569,
-    "timeWeek": 2791,
-    "timeMonth": 2826,
-    "timeYear": 540,
-    "dailyMinutesDown": {
-      "2025-03-18": 7
-    }
+    "time": 541,
+    "timeDay": 2578,
+    "timeWeek": 2796,
+    "timeMonth": 2816,
+    "timeYear": 541,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backoffice",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 108,
-    "timeWeek": 114,
+    "timeDay": 119,
+    "timeWeek": 118,
     "timeMonth": 120,
     "timeYear": 224,
     "dailyMinutesDown": {}
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
-    "timeDay": 685,
-    "timeWeek": 704,
-    "timeMonth": 696,
+    "timeDay": 676,
+    "timeWeek": 701,
+    "timeMonth": 695,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2024-08-15": 17
@@ -69,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 692,
-    "timeWeek": 689,
+    "timeDay": 690,
+    "timeWeek": 696,
     "timeMonth": 692,
     "timeYear": 623,
     "dailyMinutesDown": {
@@ -90,8 +88,8 @@
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 362,
-    "timeWeek": 374,
-    "timeMonth": 373,
+    "timeWeek": 372,
+    "timeMonth": 372,
     "timeYear": 411,
     "dailyMinutesDown": {}
   },
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 366,
-    "timeDay": 203,
-    "timeWeek": 217,
-    "timeMonth": 217,
+    "timeDay": 226,
+    "timeWeek": 222,
+    "timeMonth": 218,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2025-02-06": 54
